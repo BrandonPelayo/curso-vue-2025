@@ -14,9 +14,6 @@ onMounted(async () => {
   }, 3000)
 })
 
-function hacerAlgo() {
-  console.log('Se hizo click.')
-}
 
 async function getDatos() {
   try {
